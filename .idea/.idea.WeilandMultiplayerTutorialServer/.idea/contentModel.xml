@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\OmerC\.Rider2019.3\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\OmerC\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\OmerC\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_WeilandMultiplayerTutorialServer.332709007.00" t="ExcludeRecursive" />
+    <e p="F:\Projects\Unity\WeilandMultiplayerTutorialServer" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Client.cs" t="Include" />
+          <e p="Constants.cs" t="Include" />
+          <e p="Enemy.cs" t="Include" />
+          <e p="EnemySpawner.cs" t="Include" />
+          <e p="ItemSpawner.cs" t="Include" />
+          <e p="NetworkManager.cs" t="Include" />
+          <e p="Packet.cs" t="Include" />
+          <e p="Player.cs" t="Include" />
+          <e p="Projectile.cs" t="Include" />
+          <e p="Server.cs" t="Include" />
+          <e p="ServerHandle.cs" t="Include" />
+          <e p="ServerSend.cs" t="Include" />
+          <e p="ThreadManager.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="WeilandMultiplayerTutorialServer.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

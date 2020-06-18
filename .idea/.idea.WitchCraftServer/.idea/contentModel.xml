@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\OmerC\.Rider2019.3\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\OmerC\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\OmerC\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_WitchCraftServer.-937016500.00" t="ExcludeRecursive" />
+    <e p="D:\Projects\Unity\WitchCraftMk2\WitchCraftServer" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Editor" t="Include">
+          <e p="MapGeneratorEditor.cs" t="Include" />
+          <e p="UpdatableDataEditor.cs" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Client.cs" t="Include" />
+          <e p="Constants.cs" t="Include" />
+          <e p="Enemy.cs" t="Include" />
+          <e p="EnemySpawner.cs" t="Include" />
+          <e p="ItemSpawner.cs" t="Include" />
+          <e p="NetworkManager.cs" t="Include" />
+          <e p="Packet.cs" t="Include" />
+          <e p="PacketHandlers" t="Include">
+            <e p="IServerHandler.cs" t="Include" />
+            <e p="PlayerMovementHandler.cs" t="Include" />
+            <e p="PlayerShootHandler.cs" t="Include" />
+            <e p="PlayerThrowItemHandler.cs" t="Include" />
+            <e p="WelcomeReceivedHandler.cs" t="Include" />
+          </e>
+          <e p="Player.cs" t="Include" />
+          <e p="Projectile.cs" t="Include" />
+          <e p="Server.cs" t="Include" />
+          <e p="ServerSend.cs" t="Include" />
+          <e p="ThreadManager.cs" t="Include" />
+          <e p="WorldGeneration" t="Include">
+            <e p="Data" t="Include">
+              <e p="HeightMapSettings.cs" t="Include" />
+              <e p="MeshSettings.cs" t="Include" />
+              <e p="TextureData.cs" t="Include" />
+              <e p="UpdatableData.cs" t="Include" />
+            </e>
+            <e p="FallofGenerator.cs" t="Include" />
+            <e p="HeightMapGenerator.cs" t="Include" />
+            <e p="HideOnPlay.cs" t="Include" />
+            <e p="MapPreview.cs" t="Include" />
+            <e p="MEshGenerator.cs" t="Include" />
+            <e p="Noise.cs" t="Include" />
+            <e p="Terrain.shader" t="Include" />
+            <e p="TerrainChunk.cs" t="Include" />
+            <e p="TerrainGenerator.cs" t="Include" />
+            <e p="TextureGenerator.cs" t="Include" />
+            <e p="ThreadedDataRequester.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Standard Assets" t="Include">
+          <e p="Characters" t="Include">
+            <e p="FirstPersonCharacter" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="MouseLook.cs" t="Include" />
+                <e p="RigidbodyFirstPersonController.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="WitchCraftServer.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
